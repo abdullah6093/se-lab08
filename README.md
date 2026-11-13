@@ -14,4 +14,4 @@ java -cp bin recursion.Permutations abc
 java -cp bin recursion.Permutations -compare
 ```
 
-Ali Akbar (CMS 512234), BESE 15A
+Abdullah Ahmed 503939 BESE 15 B
